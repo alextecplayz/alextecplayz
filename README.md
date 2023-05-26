@@ -8,7 +8,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 - 💼 'Working' at my indie game studio, ![Vanta Interactive](https://github.com/Vanta-Interactive)
 
 ### ⚙️ Tech stack
-- Languages: HTML, CSS, JS | Kotlin, Java | C#, C++ | Py | Bash\
+- Languages: HTML, CSS, JS | Kotlin, Java | C#, C++ | Py | Bash
 - Programs: Visual Studio Code, gedit | Android studio | Unreal Engine | Linux terminal/nano
 
 ### 📧 Contact me
