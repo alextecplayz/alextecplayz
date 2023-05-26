@@ -24,8 +24,8 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 
 **Games:**\
 <a href="#" title="Project Mountain (the big, main game project)"><img src="https://i.ibb.co/VpxTYg9/project-Mountain.jpg" height="2.5%" width="2.5%"> Project Mountain</a>\
-<a href="#" title="Project Hangar (on indefinite hold)"><img src="https://i.ibb.co/LtDQVpR/project-Hangar.jpg" height="2.5%" width="2.5%"> Project Hangar (on indefinite hold)</a>\
-<a href="#" title="Project Odyssey / Voidbound Odyssey (concept phase, actual development not started)"><img src="https://i.ibb.co/swkKfnz/project-Odyssey.png" height="2.5%" width="2.5%"> Project Odyssey / Voidbound Odyssey (concept phase, actual development not started)</a>\
+<a href="#" title="Project Hangar (on indefinite hold)"><img src="https://i.ibb.co/LtDQVpR/project-Hangar.jpg" height="2.5%" width="2.5%"> Project Hangar</a> (on indefinite hold)\
+<a href="#" title="Project Odyssey / Voidbound Odyssey (concept phase, actual development not started)"><img src="https://i.ibb.co/swkKfnz/project-Odyssey.png" height="2.5%" width="2.5%"> Project Odyssey / Voidbound Odyssey</a> (concept phase, actual development not started)\
 (...) *Plus more projects, but these three are the ones I feel like I should mention*
 
 **Web projects:**\
