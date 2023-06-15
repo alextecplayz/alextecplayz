@@ -18,7 +18,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 - Steam: <a href="https://steamcommunity.com/id/tecplayz">AlexTECPlayz</a> (*Do not send me friend requests without proper reasoning, I will not accept them!*)
 - Reddit: <a href="https://reddit.com/u/TECPlayz2-0">u/TECPlayz2-0</a>
 - Mastodon: <a href="https://techhub.social/@alextecplayz" rel="me">@alextecplayz@techhub.social</a> (*Not very active currently*)\
-*I have a Discord account (TECPlayz#0437), but I do NOT use Discord anymore. Do not contact me there, as I will not respond. Please contact me at any of the accounts/methods listed above!*
+*I have a Discord account (TECPlayz#0437 / @alextecplayz), but I do NOT use Discord anymore. Do not contact me there, as I will not respond. Please contact me at any of the accounts/methods listed above!*
 
 ### 📂 My projects, work
 
