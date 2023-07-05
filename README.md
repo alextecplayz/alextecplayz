@@ -5,7 +5,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 - 🇷🇴 Living in Romania
 - 🙋‍♂️ Pronouns: he/him (they/them works too) | Male | Bisexual, partially Aromantic
 - 🚧 Currently working on a few games in Unreal Engine 5, mainly one big project, codenamed 'Mountain'
-- 💼 'Working' at my indie game studio, ![Vanta Interactive](https://github.com/Vanta-Interactive)
+- 💼 'Working' at my indie game studio, ![Vanta Interactive](https://github.com/VantaInteractive)
 
 ### ⚙️ Tech stack
 - Languages: HTML, CSS, JS | Kotlin, Java | C#, C++ | Py | Bash
@@ -30,7 +30,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 
 **Web projects:**\
 <a href="https://github.com/alextecplayz/alextecplayz.github.io" title="AlexTECPlayz website (V1.5 coming June/July)"><img src="https://raw.githubusercontent.com/alextecplayz/alextecplayz.github.io/main/favicon/android-chrome-192x192.png" height="2.5%" width="2.5%"> AlexTECPlayz website (V1.5 coming June/July)</a>\
-<a href="https://github.com/Vanta-Interactive/vanta-interactive.github.io" title="Vanta Interactive website (logo not final)"><img src="https://i.ibb.co/ZYbPHGV/Manifold-White.png" height="2.5%" width="2.5%"> Vanta Interactive website (*logo not final*)</a>\
+<a href="https://github.com/VantaInteractive/vantainteractive.github.io" title="Vanta Interactive website (logo not final)"><img src="https://i.ibb.co/ZYbPHGV/Manifold-White.png" height="2.5%" width="2.5%"> Vanta Interactive website (*logo not final*)</a>\
 <a href="https://github.com/alextecplayz/0R8-Wiki" title="OR8 Wiki (being merged with my website)"><img src="https://i.ibb.co/Yc3F8XC/ORB-Server.webp" height="2.5%" width="2.5%"> OR8 Wiki (being merged with my website)</a>
 
 **Software:**\
