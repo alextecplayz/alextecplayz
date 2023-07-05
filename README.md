@@ -3,7 +3,7 @@ You can usually find me on social media using the AlexTEC or AlexTECPlayz userna
 I'm an Unreal Engine game developer, software developer for Linux, Android, formerly Windows, and web developer
 
 - 🇷🇴 Living in Romania
-- 🙋‍♂️ Pronouns: he/him (they/them works too) | Male | Bisexual, partially Aromantic
+- 🙋‍♂️ Pronouns: he/him (they/them works too) | Male | Bisexual, Non-Binary and Aromantic
 - 🚧 Currently working on a few games in Unreal Engine 5, mainly one big project, codenamed 'Mountain'
 - 💼 'Working' at my indie game studio, ![Vanta Interactive](https://github.com/VantaInteractive)
 
