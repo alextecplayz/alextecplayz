@@ -42,4 +42,4 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 *PS: If the links lead to a 404 page, it means the repository is PRIVATE. This means the mod is still in private development or closed testing.*
 
 **Other:**\
-[Instagram Developer Flags list](https://github.com/alextecplayz/Instagram-flags-list) - In development. Comprehensive list of all buttons, toggles, MetaConfig flags, and everything you would want to know about the developer mode for Instagram. Using AeroInsta and Instander to document the repository.
+🧰 [Instagram Developer Flags list](https://github.com/alextecplayz/Instagram-flags-list) - In development. Comprehensive list of all buttons, toggles, MetaConfig flags, and everything you would want to know about the developer mode for Instagram. Using AeroInsta and Instander to document the repository.
