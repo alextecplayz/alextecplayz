@@ -38,7 +38,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 
 **Mods:**\
 🟥 [Prison Architect Enhanced](https://github.com/alextecplayz/PA-Enhanced) - In development for Prison Architect (PC - Windows, macOS, Linux) and Prison Architect Mobile (Android)\
-🟥 [Scrap Mechanic Enhanced](https://github.com/alextecplayz/SM-Enhanced) - On hold until further notice
+🟥 [Scrap Mechanic Enhanced](https://github.com/alextecplayz/SM-Enhanced) - On hold until further notice\
 *PS: If the links lead to a 404 page, it means the repository is PRIVATE. This means the mod is still in private development or closed testing.*
 
 **Other:**\
