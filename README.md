@@ -37,5 +37,5 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 ⬜ Project MOREL (*Nothing public about it, in very early stages of development & UI|UX exploration*)
 
 **Mods:**\
-🟥 Prison Architect Enhanced - In development\
-🟥 Scrap Mechanic Enhanced - On hold until further notice
+🟥 [Prison Architect Enhanced](https://github.com/alextecplayz/PA-Enhanced) - In development for Prison Architect (PC - Windows, macOS, Linux) and Prison Architect Mobile (Android)\
+🟥 [Scrap Mechanic Enhanced](https://github.com/alextecplayz/SM-Enhanced) - On hold until further notice
