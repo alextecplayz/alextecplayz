@@ -23,9 +23,10 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 ### 📂 My projects, work
 
 **Games:**\
-<a href="#" title="Project Mountain (the big, main game project)"><img src="https://i.ibb.co/VpxTYg9/project-Mountain.jpg" height="2.5%" width="2.5%"> Project Mountain (*the big, main game project*)</a>\
-<a href="#" title="Project Hangar (on indefinite hold)"><img src="https://i.ibb.co/LtDQVpR/project-Hangar.jpg" height="2.5%" width="2.5%"> Project Hangar</a> (*on indefinite hold*)\
-<a href="#" title="Project Odyssey (concept phase, actual development not started)"><img src="https://i.ibb.co/swkKfnz/project-Odyssey.png" height="2.5%" width="2.5%"> Project Odyssey</a> (*concept phase, actual development not started*)\
+<a href="https://github.com/VantaInteractive/project-mountain" title="Project Mountain (the big, main game project)"><img src="https://i.ibb.co/VpxTYg9/project-Mountain.jpg" height="2.5%" width="2.5%"> Project Mountain</a> (*the big, main game project*)\
+<a href="https://github.com/VantaInteractive/project-hangar" title="Project Hangar (on indefinite hold)"><img src="https://i.ibb.co/LtDQVpR/project-Hangar.jpg" height="2.5%" width="2.5%"> Project Hangar</a> (*on indefinite hold*)\
+<a href="https://github.com/VantaInteractive/project-odyssey" title="Project Odyssey (concept phase, actual development not started)"><img src="https://i.ibb.co/swkKfnz/project-Odyssey.png" height="2.5%" width="2.5%"> Project Odyssey</a> (*concept phase, actual development not started*)\
+<a href="https://github.com/VantaInteractive/project-anubis" title="Project Anubis"><img src="https://i.ibb.co/m5d5B2R/Anubis-Game.png" height="2.5%" width="2.5%"> Project Anubis</a> (*Mobile-first, coming late Sept/early Oct with a Desktop release later on*)\
 (...) *Plus more projects, but these three are the ones I feel like I should mention*
 
 **Web projects:**\
