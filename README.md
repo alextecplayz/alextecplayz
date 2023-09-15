@@ -45,3 +45,18 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 **Other:**\
 🧰 [Instagram Developer Flags list](https://github.com/alextecplayz/Instagram-flags-list) - In development. Comprehensive list of all buttons, toggles, MetaConfig flags, and everything you would want to know about the developer mode for Instagram. Using AeroInsta and Instander to document the repository.\
 🖊 [userscripts](https://github.com/alextecplayz/userscripts) - My repo with userstyles and userscripts for various things. Some are experimental, some are complete. There are no guarantees I might update them, but I will try regardless.
+
+### 💳 Donations, support
+If you want to support me financially, here's some stuff:\
+[BTC (Bitcoin)](https://www.blockchain.com/explorer/addresses/btc/bc1qu9zc6kl3yua7l7azsp2s4zg5u7sxqgzcv0shsd)\
+[ETH (Ethereum)](https://www.blockchain.com/explorer/addresses/eth/0x7B8143419C9B82aE443beA5d0a9f93aCc09aa8A5)\
+[BCH (Bitcoin Cash)](https://www.blockchain.com/explorer/addresses/bch/qq372rka6nu8mpy8c9we2g8wk6zuza39zvcdhhmunv)\
+[Ko-Fi](https://ko-fi.com/alextecplayz)\
+[Patreon](https://patreon.com/alextecplayz)\
+[GitHub Sponsors (coming sometime in the future)](#)\
+All funds from donations are used for projects, not for personal purposes. I won't use them to buy myself food, pay taxes or anything like that.
+
+Referrals:\
+[MEGA](https://mega.nz/aff=kS-Cpiruwpo) - I get a 20% commission from any purchase if you buy any plan within 12 months of using the referral link.
+
+If you don't/can't support me financially, that's totally fine. You can subscribe to my [YouTube channel](https://youtube.com/@alextecplayz) or give me a follow over on [Mastodon](https://techhub.social/@alextecplayz). I like making content from time to time related to games or whatever else.
