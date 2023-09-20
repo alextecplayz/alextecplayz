@@ -43,6 +43,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 *PS: If the links lead to a 404 page, it means the repository is PRIVATE. This means the mod is still in private development or closed testing.*
 
 **Other:**\
+📋 [Filterlist](https://github.com/alextecplayz/filterlist) - Continuously updated. Contains ~100K websites from various categories, including cults, extreme political parties, anti-GSRM, spam, ads, phishing, tracking and malware that can be filtered using programs and apps such as Portmaster or personalDNSfilter. It may also break certain apps. TikTok and FB are pretty much blocked. It's recommended to add some websites you need to a whitelist.\
 🧰 [Instagram Developer Flags list](https://github.com/alextecplayz/Instagram-flags-list) - In development. Comprehensive list of all buttons, toggles, MetaConfig flags, and everything you would want to know about the developer mode for Instagram. Using AeroInsta and Instander to document the repository.\
 🖊 [userscripts](https://github.com/alextecplayz/userscripts) - My repo with userstyles and userscripts for various things. Some are experimental, some are complete. There are no guarantees I might update them, but I will try regardless.
 
