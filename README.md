@@ -3,7 +3,7 @@ You can usually find me on social media using the AlexTEC or AlexTECPlayz userna
 I'm an Unreal Engine game developer, software developer for Linux, Android, formerly Windows, and web developer
 
 - 🇷🇴 Living in Romania
-- 🙋‍♂️ Pronouns: he/him (they/them works too) | Male | Bisexual, Non-Binary and Aromantic
+- 🙋‍♂️ Pronouns: he/they | Bisexual, Non-Binary and Aromantic
 - 🚧 Currently working on a few games in Unreal Engine 5, mainly one big project, codenamed 'Mountain'
 - 💼 'Working' at my indie game studio, ![Vanta Interactive](https://github.com/VantaInteractive)
 
@@ -26,7 +26,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 <a href="https://github.com/VantaInteractive/project-mountain" title="Project Mountain (the big, main game project)"><img src="https://i.ibb.co/VpxTYg9/project-Mountain.jpg" height="2.5%" width="2.5%"> Project Mountain</a> (*the big, main game project*)\
 <a href="https://github.com/VantaInteractive/project-hangar" title="Project Hangar (on indefinite hold)"><img src="https://i.ibb.co/LtDQVpR/project-Hangar.jpg" height="2.5%" width="2.5%"> Project Hangar</a> (*on indefinite hold*)\
 <a href="https://github.com/VantaInteractive/project-odyssey" title="Project Odyssey (concept phase, actual development not started)"><img src="https://i.ibb.co/swkKfnz/project-Odyssey.png" height="2.5%" width="2.5%"> Project Odyssey</a> (*concept phase, actual development not started*)\
-<a href="https://github.com/VantaInteractive/project-anubis" title="Project Anubis"><img src="https://i.ibb.co/m5d5B2R/Anubis-Game.png" height="2.5%" width="2.5%"> Project Anubis</a> (*Mobile-first, coming late Sept/early Oct with a Desktop release later on*)\
+<a href="https://github.com/VantaInteractive/project-anubis" title="Project Anubis"><img src="https://i.ibb.co/m5d5B2R/Anubis-Game.png" height="2.5%" width="2.5%"> Project Anubis</a> (*Mobile-first, coming Oct 2023 with a Desktop release in 2024*)\
 (...) *Plus more projects, but these three are the ones I feel like I should mention*
 
 **Web projects:**\
