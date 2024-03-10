@@ -16,7 +16,7 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, form
 ### 📂 My projects, work
 | Web                                                                            | Games              | Translations                                                  | Misc                                                     |
 | ------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------------------- | -------------------------------------------------------- |
-| [AlexTECPlayz website](https://alextecplayz.github.io)                         | *unnanounced game* | [Codeberg](https://translate.codeberg.org/user/alextecplayz/) | [Filterlist](https://github.com/alextecplayz.filterlist) |
+| [AlexTECPlayz website](https://alextecplayz.github.io)                         | *unnanounced game* | [Codeberg](https://translate.codeberg.org/user/alextecplayz/) | [Filterlist](https://github.com/alextecplayz/filterlist) |
 | [Vanta Interactive website](https://vantainteractive.github.io)                | Project Mountain   | [Crowdin](https://crowdin.com/profile/alextecplayz)           |                                                          |
 | [searchlight prototype](https://www.github.com/alextecplayz/proto-searchlight) | Project Odyssey    | [Weblate](https://hosted.weblate.org/user/alextecplayz/)      |                                                          |
 | [Userscripts](https://github.com/alextecplayz/userscripts)                     | Project Hangar     |                                                               |                                                          |
