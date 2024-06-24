@@ -25,9 +25,6 @@ I'm an Unreal Engine game developer, software developer for Linux, Android, and 
 
 - E-mail: <a href="mailto:alextec70@protonmail.com">alextec70@protonmail.com</a>
 - Mastodon: <a href="https://techhub.social/@alextecplayz" rel="me">@alextecplayz@techhub.social</a>
-- YouTube: <a href="https://youtube.com/@alextecplayz">AlexTECPlayz</a>
-- Steam: <a href="https://steamcommunity.com/id/tecplayz">AlexTECPlayz</a>
-- Reddit: <a href="https://reddit.com/u/TECPlayz2-0">u/TECPlayz2-0</a>\
 *Do not contact me on other platforms that aren't listed above, I will not respond.*
 
 ### 💳 Donations, support
@@ -35,5 +32,4 @@ If you want to support me financially, here are some links:\
 [LiberaPay](https://liberapay.com/AlexTECPlayz/donate)\
 [BTC (Bitcoin)](https://www.blockchain.com/explorer/addresses/btc/bc1qu9zc6kl3yua7l7azsp2s4zg5u7sxqgzcv0shsd)\
 [ETH (Ethereum)](https://www.blockchain.com/explorer/addresses/eth/0x7B8143419C9B82aE443beA5d0a9f93aCc09aa8A5)\
-[PayPal](https://paypal.me/alextecplayz)\
-GitHub Sponsors (*coming soon*)
+[PayPal](https://paypal.me/alextecplayz)
