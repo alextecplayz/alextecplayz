@@ -3,23 +3,20 @@ You can usually find me on social media using the *TECPlayz*, *AlexTEC* or *Alex
 I'm an Unreal Engine game developer, software developer for Linux, Android, and web developer
 
 - 🇷🇴 Living in Romania
-- 🙋‍♂️ Pronouns: he/they | 🏳️‍🌈🏳️‍⚧️ Aro Bi
-- 🚧 Currently working on a few games in Unreal Engine
-- 💼 Working at my indie game studio, [Vanta Interactive](https://github.com/VantaInteractive) and as an IT freelancer for a hospital laboratory
+- 🙋‍♂️ Pronouns: they/them -> she/her | 🏳️‍🌈🏳️‍⚧️ Aro Bi
+- 🚧 Currently working on Sapphire Engine, all game projects are on hold at the moment
+- 💼 Working at my indie game studio, [Vanta Interactive](https://github.com/VantaInteractive), but I'm also free for some freelancing work
+- Check out my [Portfolio](https://alextecplayz.github.io/portfolio) on my site
 
 ### ⚙️ Tech stack
-| Category | Web development | App development | Game Development              | Scripting, Modding   | Art, 2D and 3D modelling       |
-| -------- | --------------- | --------------- | ----------------------------- | -------------------- | ------------------------------ |
-| Language | HTML, CSS, JS   | Kotlin, Java    | C++, Blueprints, Py           | Py, Shell, Lua, JSON | -                              |
-| Program  | VSCodium        | Android Studio  | Unreal Engine (4.27.2, 5.2.1) | nano, gedit          | Blender, MagicaVoxel, Aseprite |
 
-### 📂 My projects, work
-| Web                                                                            | Games              | Translations                                                  | Misc                                                     |
-| ------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------------------- | -------------------------------------------------------- |
-| [AlexTECPlayz website](https://alextecplayz.github.io)                         | *unnanounced game* | [Codeberg](https://translate.codeberg.org/user/alextecplayz/) | [Filterlist](https://github.com/alextecplayz/filterlist) |
-| [Vanta Interactive website](https://vantainteractive.github.io)                | Project Mountain   | [Crowdin](https://crowdin.com/profile/alextecplayz)           |                                                          |
-| [searchlight prototype](https://www.github.com/alextecplayz/proto-searchlight) | Project Odyssey    | [Weblate](https://hosted.weblate.org/user/alextecplayz/)      |                                                          |
-| [Userscripts](https://github.com/alextecplayz/userscripts)                     | Project Hangar     |                                                               |                                                          |
+|       Category       |        Language       |                 Program                  |
+| -------------------- | --------------------- | ---------------------------------------- |
+| Game development     | C++, Python, Lua, XML | Sapphire Engine, Unreal Engine, VSCodium |
+| Software development | Java, XML, Kotlin     | Android Studio, VSCodium                 |
+| Web developemnt      | HTML, CSS, JS         | gedit, nano, VSCodium                    |
+| Miscellaneous        | Shell, Lua, JSON      | gedit, nano, VSCodium                    |
+| Art                  | -                     | Aseprite, Blender, MagicaVoxel           |
 
 ### 📧 Contact, Social Media
 
